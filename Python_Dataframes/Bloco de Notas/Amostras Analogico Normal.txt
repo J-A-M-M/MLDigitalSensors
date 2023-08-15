@@ -1,0 +1,27 @@
+Mancal 1:
+Sample 1: estabilizou em 6s
+Sample 2: estabilizou em 6s
+Sample 3: estabilizou em 7s
+Sample 4: estabilizou em 8s
+Sample 5: estabilizou em 9s
+Sample 6: estabilizou em 10s
+Sample 7: estabilizou em 11s
+Sample 8: estabilizou em 12s
+Mancal 2:
+Sample 9: estabilizou em 4s
+Sample 10: estabilizou em 6s
+Sample 11: estabilizou em 7s
+Sample 12: estabilizou em 8s
+Sample 13: estabilizou em 9s
+Sample 14: estabilizou em 10s
+Sample 15: estabilizou em 11s
+Sample 16: estabilizou em 12s
+Mancal 3:
+Sample 17: estabilizou em 5s
+Sample 18: estabilizou em 6s
+Sample 19: estabilizou em 7s
+Sample 20: estabilizou em 7s
+Sample 21: estabilizou em 8s
+Sample 22: estabilizou em 9s
+Sample 23: estabilizou em 10s
+Sample 24: estabilizou em 12s
