@@ -1,0 +1,22 @@
+Primeira Letra -> Qual dos Rotores Batemos
+Segunda Letra -> Qual dos Eixos eu Recebo o Sinal (Resposta)
+Terceira letra -> Qual Direção da Batida (Se não tiver é a mesma que a segunda letra)
+
+LEMBRAR: INERTÂNCIA = RESPOSTA/FORÇA-> H=ONDE PEGUEI O SINAL / ONDE BATI
+
+H_A = Acel/ Força -> Tudo na Tranformada de Fourier
+
+
+Ex:
+Teste Rotor AX -> Rotor A em X -> Rotor A, Resposta em X, Batida em X
+Teste Rotor AZX -: Rotor A, Resposta em Z, Batemos em X
+
+
+---------------------------
+Para saber qual sensor:
+
+Sensor 1 -> Acelerometro que estava no Rotor A
+Sensor 2 -> Acelerometro que estava no Rotor B
+
+Ex: H1_1Z+/1Z- -> Sensor 1 na Direção Z + (Como o eixo padrão de estudo) e Força Aplicada no Eixo Z - (Contra o senstido do eixo que usamos normalmente)
+    H2_2Z+/1Z- -> Sensor 2 na Direção Z e Força Aplicada em Z
